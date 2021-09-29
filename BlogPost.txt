@@ -1,0 +1,7 @@
+In this task we will play a very simple game, rock - paper - scissors.
+I was planning to do "Choose Your Own Adventure" but the plot i made was too long so...
+By the way, feel free to download code from my Github and play this game.
+If you have any comments or feedback please contact to my SNS accounts:
+Instagram: @khimxsdj
+
+Thank you for reading, have a good day!
